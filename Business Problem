@@ -1,6 +1,0 @@
-My business plan is that I will open my own cafe because there is high demand for coffee drinks in my country.
-My target group is unversity students. So, I decide to set up my cafe near Chulalongkorn University, one of the famous and large universities in my city.
-My business problem is I need to know where is a good spot to open my cafe, given that it needs to be within a one-kilometer range around the University.
-
-Data used in this project will be imported from Foursquare. I will insert Chulalongkorn University location and search for cafes around the University. 
-After that, I will retrive all the locations of the cafes to plot on a map and then I will analyze and select an area that has low density of cafes to set up my cafe.
